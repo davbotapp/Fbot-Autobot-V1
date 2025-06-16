@@ -59,7 +59,7 @@ Version: ${command.version}`;
 
         const helpMessage = `
 ╔════════════╗
-     🤖 Bot Commands 🤖
+     🤖 Davbot Commands 🤖
 ╚════════════╝
 Here are some commands:  
 ${commandArray}
